@@ -15,4 +15,5 @@ imhist(ORG); % ヒストグラムの表示
 
 
 
-
+https://raw.githubusercontent.com/15nc044/lecture_image_processing/master/4_1.jpg
+https://raw.githubusercontent.com/15nc044/lecture_image_processing/master/4_2.jpg
