@@ -32,3 +32,7 @@ end;
 IMG = ORG > max_thres;
 imagesc(IMG); colormap(gray); colorbar;
 pause;
+
+
+https://raw.githubusercontent.com/15nc044/lecture_image_processing/master/5_1.jpg
+https://raw.githubusercontent.com/15nc044/lecture_image_processing/master/5_2.jpg
