@@ -26,3 +26,8 @@ pause;
 IMG = ORG > 192;
 imagesc(IMG); colormap(gray); colorbar;
 
+https://raw.githubusercontent.com/15nc044/lecture_image_processing/master/3_1.jpg
+https://raw.githubusercontent.com/15nc044/lecture_image_processing/master/3_2.jpg
+https://raw.githubusercontent.com/15nc044/lecture_image_processing/master/3_3.jpg
+https://raw.githubusercontent.com/15nc044/lecture_image_processing/master/3_4.jpg
+https://raw.githubusercontent.com/15nc044/lecture_image_processing/master/3_5.jpg
