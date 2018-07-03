@@ -17,3 +17,6 @@ pause;
 IMG = dither(ORG); % ディザ法による二値化
 imagesc(IMG); colormap(gray); colorbar; % 画像の表示
 
+https://raw.githubusercontent.com/15nc044/lecture_image_processing/master/6_1.jpg
+https://raw.githubusercontent.com/15nc044/lecture_image_processing/master/6_2.jpg
+https://raw.githubusercontent.com/15nc044/lecture_image_processing/master/6_3.jpg
