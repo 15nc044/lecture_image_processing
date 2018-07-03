@@ -33,4 +33,5 @@ IMG = imresize(IMG,0.5); % 画像の縮小
 IMG2 = imresize(IMG,32,'box'); % 画像の拡大
 imagesc(IMG2); axis image; % 画像の表示
 
-lecture_image_processing/1_1.jpg 
+
+https://raw.githubusercontent.com/15nc044/lecture_image_processing/master/1_1.jpg
