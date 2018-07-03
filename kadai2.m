@@ -33,3 +33,9 @@ IMG5 = ORG>224;
 IMG6 = ORG>256;
 IMG = IMG0 + IMG1 + IMG2 +IMG3 +IMG4 +IMG5 +IMG6;
 imagesc(IMG); colormap(gray); colorbar;  axis image;
+
+
+https://raw.githubusercontent.com/15nc044/lecture_image_processing/master/2_1.jpg
+https://raw.githubusercontent.com/15nc044/lecture_image_processing/master/2_2.jpg
+https://raw.githubusercontent.com/15nc044/lecture_image_processing/master/2_3.jpg
+https://raw.githubusercontent.com/15nc044/lecture_image_processing/master/2_4.jpg
