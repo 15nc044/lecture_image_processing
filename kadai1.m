@@ -35,3 +35,7 @@ imagesc(IMG2); axis image; % 画像の表示
 
 
 https://raw.githubusercontent.com/15nc044/lecture_image_processing/master/1_1.jpg
+https://raw.githubusercontent.com/15nc044/lecture_image_processing/master/1_2.jpg
+https://raw.githubusercontent.com/15nc044/lecture_image_processing/master/1_3.jpg
+https://raw.githubusercontent.com/15nc044/lecture_image_processing/master/1_4.jpg
+https://raw.githubusercontent.com/15nc044/lecture_image_processing/master/1_5.jpg
